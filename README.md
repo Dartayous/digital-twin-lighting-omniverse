@@ -19,21 +19,27 @@ The scene represents a modern office workspace (my own), designed to explore how
 
 ## 📸 Highlights
 
-<p align="center">
-  <img src="images/digital_twin_lighting_01.png" width="700"/>
-</p>
+These selected renders show the final lighting study from multiple cinematic angles, emphasizing practical lamp lighting, cool daylight fill, reflective material response, and scene composition inside the reconstructed office environment.
 
-<p align="center">
-  <img src="images/digital_twin_lighting_02.png" width="700"/>
-</p>
+### 1. Hero Lighting Shot
+A close cinematic view of the desk lamp, showing the strongest shadow interplay, warm practical light, and reflective response on the desk surface.
 
-<p align="center">
-  <img src="images/digital_twin_lighting_03.png" width="700"/>
-</p>
+![Hero Shot](images/digital_twin_lighting_01.png)
 
-<p align="center">
-  <img src="images/digital_twin_lighting_04.png" width="700"/>
-</p>
+### 2. Environment Composition
+A wider composition that frames the desk, monitors, and lamp together to show how lighting and spatial layout work as a cohesive digital twin scene.
+
+![Desk Angle](images/digital_twin_lighting_02.png)
+
+### 3. Full Scene Context
+A broader environment shot that establishes the room layout, furniture placement, and overall balance between daylight, monitor fill, and practical lighting.
+
+![Wide Shot](images/digital_twin_lighting_03.png)
+
+### 4. Interactive Display Integration
+A scene view highlighting the wall-mounted display and secondary room elements, showing how interface-driven surfaces can be integrated into a visually grounded digital twin environment.
+
+![UI Display](images/digital_twin_lighting_04.png)
 
 
 
@@ -68,7 +74,7 @@ The scene represents a modern office workspace (my own), designed to explore how
 ### 💡 Lighting Strategy
 
 | Light Source | Purpose |
-|------|--------|
+|---|---|
 | RectLight (Window) | Simulated daylight entry |
 | SphereLight (Monitors) | Fake emissive screen glow |
 | DiscLight | Directional sunlight shaping |
@@ -111,17 +117,21 @@ This project demonstrates key digital twin engineering skills:
 
 ## 📁 Project Structure
 
+```text
 project_06_digital_twin_desk/
-├── assets/
 ├── images/
-├── materials/
+│   ├── digital_twin_lighting_01.png
+│   ├── digital_twin_lighting_02.png
+│   ├── digital_twin_lighting_03.png
+│   └── digital_twin_lighting_04.png
 ├── media/
-│ └── digital_twin_and_lighting.gif
-├── references/
+│   ├── digital_twin_and_lighting.gif
+│   └── digital_twin_and_lightning.mp4
 ├── usd/
-│ ├── desk_twin_v01.usda
-│ ├── desk_twin_v02.usda
-│ └── desk_twin_v03.usda
+│   ├── desk_twin_v01.usda
+│   ├── desk_twin_v02.usda
+│   └── desk_twin_v03.usda
+└── README.md
 
 
 ---
