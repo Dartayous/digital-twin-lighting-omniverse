@@ -4,7 +4,7 @@
 
 ## 🧠 Project Overview
 
-This project demonstrates the creation of a **real-time digital twin office environment** using NVIDIA Omniverse and OpenUSD, with a focus on **physically-inspired lighting, material realism, and cinematic scene composition**.
+This project demonstrates the creation of a **real-time digital twin office environment** (my own) using NVIDIA Omniverse and OpenUSD, with a focus on **physically-inspired lighting, material realism, and cinematic scene composition**.
 
 The goal was to replicate real-world lighting behavior using practical sources (lamp, monitors, and daylight) while maintaining performance within a real-time rendering pipeline.
 
