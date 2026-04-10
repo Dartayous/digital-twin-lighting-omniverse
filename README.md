@@ -1,5 +1,14 @@
 # 🖥️ Digital Twin Lighting Study – Office Environment
 
+---
+
+## 🧠 Project Overview
+
+This project demonstrates the creation of a **real-time digital twin environment** using NVIDIA Omniverse and OpenUSD, with a strong emphasis on **lighting, material realism, and scene composition**.
+
+The scene represents a modern office workspace, designed to explore how **practical lighting setups** (lamps, monitors, and daylight) influence realism and visual storytelling in a digital twin context.
+
+---
 
 ## 🎥 Demo
 <p align="center">
@@ -26,15 +35,7 @@
   <img src="images/digital_twin_lighting_04.png" width="700"/>
 </p>
 
----
 
-## 🧠 Project Overview
-
-This project demonstrates the creation of a **real-time digital twin environment** using NVIDIA Omniverse and OpenUSD, with a strong emphasis on **lighting, material realism, and scene composition**.
-
-The scene represents a modern office workspace, designed to explore how **practical lighting setups** (lamps, monitors, and daylight) influence realism and visual storytelling in a digital twin context.
-
----
 
 ## 🎯 Key Objectives
 
