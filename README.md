@@ -118,6 +118,9 @@ A scene view highlighting the wall-mounted display and secondary room elements, 
 **Lighting Balance**
 - Challenge: Overpowering warm lamp vs flat environment lighting
 - Solution: Balanced warm practical light with cool fill sources to achieve cinematic contrast
+
+---
+
 ## 🚀 Why This Matters
 
 This project demonstrates key digital twin engineering skills:
